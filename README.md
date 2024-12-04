@@ -150,7 +150,9 @@ The regression models were developed by grouping countries because it was observ
 
 #### Model Performance
 
-Below is a table showcasing the performance metrics (MAE and R²) for each model within the defined country groups (2022 Test):
+Below is a table showcasing the performance metrics (MAE in Tons and R²) for each model within the defined country groups (2022 Test):
+
+*Note: The MAE was calculated for each granular value of country/province. After observing a decreasing MAE, the final decision was to group by country only for the predicted Yield (result delivered to the forecast folder).*
 
 | Model                        |   MAE   | R²   |
 |------------------------------|---------|------|
@@ -164,11 +166,16 @@ Below is a table showcasing the performance metrics (MAE and R²) for each model
 As an example of the provided graphs, the following is shown for the Top Crop - G3 model.
 
 ![r2image](/images/r2_example.png)
-*Caption: Result of the fit based on actual versus predicted data.*
 
+*Figure: Result of the fit based on actual versus predicted data (for R²).*
 
+![importanceimage](/images/importance.png)
+
+*Figure: Feature Importance. The province is the most desired feature for this model (I indicated to PyCaret that it is a categorical variable to transform accordingly).*
 
 ## License
+
+This project is licensed under the [MIT License](https://opensource.org/license/MIT).
 
 ## Acknowledgements
 
