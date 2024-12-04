@@ -53,7 +53,7 @@ Models are registered in a personal MLflow instance: [MLflow Access](http://ec2-
 
 * `1_Data_Acquisition_PreProcessing.ipynb`: This notebook handles the acquisition of yield data from HuggingFace, the acquisition of location data (latitude and longitude) using the Google Maps API, scraping of EU codes, and scraping of climate data using NASA's Weather API. Additionally, the data was preprocessed for ALL CROPS and TOP CROP (the top crop was selected using the Sharpe Ratio method), resulting in a dataset universe for each.
 
-    Additionally, it was necessary to select a harvest start point to reference the months associated with climate variables. Therefore, the harvest month was selected using [this crop calendar](https://ipad.fas.usda.gov/rssiws/al/crop_calendar/europe.aspx), where September is the most common month for harvesting, and some seed data for the assessment is also available (e.g., sunflower).
+    Additionally, it was necessary to select a harvest start point to reference the months associated with climate variables. Therefore, the harvest month was selected using [this crop calendar](https://ipad.fas.usda.gov/rssiws/al/crop_calendar/europe.aspx), where September is the most common month for harvesting, and some seed data for the assessment is also available (e.g., sunflower). The meteorology data will have 8 months for each feature (January, February, ..., July, August).
 
     ![Crop Calendar](https://ipad.fas.usda.gov/countrysummary/images/E4/cropcalendar/europe_e4_1_calendar.png)
 
@@ -172,6 +172,9 @@ As an example of the provided graphs, the following is shown for the Top Crop - 
 ![importanceimage](/images/importance.png)
 
 *Figure: Feature Importance. The province is the most desired feature for this model (I indicated to PyCaret that it is a categorical variable to transform accordingly).*
+
+### Holt-Winters
+
 
 ## License
 
