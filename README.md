@@ -127,7 +127,7 @@ API_KEY_GEOCODING=YOUR_TOKEN
 
 The results are based on the developed models, where **LightGBM** was used for regression models and **Holt-Winters** for time series models.
 
-### LighGBM Regresor
+### LighGBM Regressor
 
 #### Model Grouping by Country
 
@@ -171,10 +171,74 @@ As an example of the provided graphs, the following is shown for the Top Crop - 
 
 ![importanceimage](/images/importance.png)
 
-*Figure: Feature Importance. The province is the most desired feature for this model (I indicated to PyCaret that it is a categorical variable to transform accordingly).*
+*Figure: Feature Importance. The province is the most desired feature for this model (Indicated to PyCaret that it is a categorical variable to transform accordingly).*
 
 ### Holt-Winters
 
+#### Model Dataset
+
+For this case, all data was grouped by country to construct the series by year. The Holt-Winters method was applied only to countries that did not have zeros in any year, as it is highly sensitive to such changes due to being a deterministic method (if the parameters are static). For this model I'm not using Weather data.
+
+#### Model Performace
+
+Since a model was developed for each country, the Yield data could vary based on this approach, as was also observed in the LightGBM models. Therefore, in addition to MAE, MAPE was used to evaluate the reduction of error by country. Each of this metric are in the table below.
+
+##### Tables for All Crops Yield
+
+|  country	 |    MAE    | MAPE (%) |
+|------------|-----------|----------|
+|austria	 |   1449.48 |    5.12  |
+|belgium	 |   5252.37 |	 21.49  |
+|czechia	 |   2894.85 |	 13.53  |
+|finland	 |   1379.98 |	  5.28  |
+|france	     | 205097.77 |	 54.27  |
+|greece	     |   3287.03 |	 19.81  |
+|hungary	 |  13649.36 |	 38.30  |
+|luxembourg  |    124.19 |    5.53  |
+|netherlands |   1858.34 |    6.92  |
+|poland	     |   3252.82 |	  2.39  |
+|portugal	 |    789.91 |	 13.94  |
+|romania	 |   3433.18 |	  8.33  |
+|slovakia	 |    438.18 |	  2.81  |
+
+Where full metrics are:
+
+|  Metric  |   mean   |   pond    |
+|----------|----------|-----------|
+| MAE      | 18685.19 | 123472.77 |
+| MAPE (%) |   15.21  |    36.77  |
+
+![hwfrall](/images/hw_fr_all.png)
+
+*Figure: Example of Forecasting 2022 for France - All Crops*
+
+##### Tables for Top Crop Yield
+
+|  country	|   MAE	  | MAPE (%) |
+|-----------|---------|----------|
+|austria	|  251.54 |   4.83   |
+|belgium	|  253.21 |	  9.10   |
+|czechia	|  947.04 |	 11.52   |
+|finland	|  804.35 |	 22.40   |
+|france	    | 5636.11 |	  9.40   |
+|greece	    |  666.00 |	 20.77   |
+|hungary	| 2557.61 |	 28.24   |
+|luxembourg |	16.12 |   9.44   |
+|poland	    | 2867.19 |	  8.19   |
+|portugal	|  124.15 |	 12.17   |
+|romania	| 2865.80 |	 15.19   |
+
+Where full metrics are:
+
+|  Metric  |   mean  |   pond  |
+|----------|---------|---------|
+| MAE      | 1544.46 | 3690.30 |
+| MAPE (%) |  13.75  |  11.88  |
+
+
+![hwgrtop](/images/hw_gr_top.png)
+
+*Figure: Example of Forecasting 2022 for Greece - Top Crop.*
 
 ## License
 
