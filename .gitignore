@@ -1,0 +1,7 @@
+.venv/
+yieldpredictionenv/
+notebooks/.env
+notebooks/nada.ipynb
+notebooks/nasa_weather.ipynb
+notebooks/response_weather.json
+data/metheorology.csv

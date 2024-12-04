@@ -1,0 +1,414 @@
+province,country,lat,long
+région de bruxelles-capitale/brussels hoofdstedelijk gewest,belgium,50.8837528,4.3704516
+prov. antwerpen,belgium,51.1663636,4.7639649
+prov. limburg (be),belgium,50.9738973,5.3419677
+prov. oost-vlaanderen,belgium,51.0362101,3.7373124
+prov. vlaams-brabant,belgium,50.8815434,4.564597
+prov. west-vlaanderen,belgium,51.0536024,3.1457942
+prov. brabant wallon,belgium,50.633241,4.524315
+prov. hainaut,belgium,50.5335001,4.5803998
+prov. liège,belgium,50.449642,5.8491614
+prov. luxembourg (be),belgium,50.503887,4.469936
+prov. namur,belgium,50.46493340000001,4.864973099999999
+severozapaden,bulgaria,43.4743428,23.9664446
+severen tsentralen,bulgaria,43.7648855,26.650058
+severoiztochen,bulgaria,43.318414,27.1875197
+yugoiztochen,bulgaria,42.5881068,26.4472951
+yugozapaden,bulgaria,42.3312315,23.0011989
+yuzhen tsentralen,bulgaria,41.9975668,24.524264
+praha,czechia,50.0755381,14.4378005
+střední čechy,czechia,49.8782223,14.9362955
+jihozápad,czechia,49.81749199999999,15.472962
+severozápad,czechia,49.81749199999999,15.472962
+severovýchod,czechia,49.8866055,16.8812992
+jihovýchod,czechia,49.3876344,16.0778362
+střední morava,czechia,49.81749199999999,15.472962
+moravskoslezsko,czechia,49.7305327,18.2332637
+hovedstaden,denmark,55.8565124,12.3011513
+sjælland,denmark,55.4632518,11.7214979
+syddanmark,denmark,55.3307714,9.0924903
+midtjylland,denmark,56.302139,9.3027769
+nordjylland,denmark,56.8307416,9.4930528
+stuttgart,germany,48.7758459,9.1829321
+karlsruhe,germany,49.0068901,8.4036527
+freiburg,germany,47.9990077,7.842104299999999
+tübingen,germany,48.5216364,9.0576448
+oberbayern,germany,47.9520866,11.7877295
+niederbayern,germany,48.7896497,13.0208058
+oberpfalz,germany,49.5554229,12.0380948
+oberfranken,germany,49.9599819,11.3216311
+mittelfranken,germany,49.36332729999999,10.6506315
+unterfranken,germany,50.0780217,10.0511934
+schwaben,germany,48.38146709999999,10.7008406
+berlin,germany,52.52000659999999,13.404954
+brandenburg,germany,52.4125287,12.5316444
+bremen,germany,53.07929619999999,8.8016937
+hamburg,germany,53.5488282,9.987170299999999
+darmstadt,germany,49.8728253,8.6511929
+gießen,germany,50.5840512,8.678403099999999
+kassel,germany,51.3118828,9.4915751
+mecklenburg-vorpommern,germany,53.6126505,12.4295953
+braunschweig,germany,52.2677907,10.5245656
+hannover,germany,52.3758916,9.732010400000002
+lüneburg,germany,53.2478704,10.4160637
+weser-ems,germany,52.55581801396313,8.977782663562657
+düsseldorf,germany,51.2230411,6.7824545
+köln,germany,50.937531,6.9602786
+münster,germany,51.9606649,7.6261347
+detmold,germany,51.9384783,8.868637999999999
+arnsberg,germany,51.4073375,8.052771
+koblenz,germany,50.3569429,7.5889959
+trier,germany,49.7500569,6.637188999999999
+rheinhessen-pfalz,germany,50.118346,7.3089527
+saarland,germany,49.3964234,7.0229607
+dresden,germany,51.0504088,13.7372621
+chemnitz,germany,50.8282222,12.9208547
+leipzig,germany,51.3396955,12.3730747
+sachsen-anhalt,germany,51.9502649,11.6922735
+schleswig-holstein,germany,54.21936720000001,9.696116700000001
+thüringen,germany,51.0109892,10.845346
+eesti,estonia,58.595272,25.013607
+northern and western,ireland,53.77975540000001,-7.3055309
+southern,ireland,53.41291,-8.24389
+eastern and midland,ireland,53.3954971,-6.263833900000001
+"border, midland and western (nuts 2013)",ireland,53.77975540000001,-7.3055309
+southern and eastern (nuts 2013),ireland,53.77975540000001,-7.3055309
+"anatoliki makedonia, thraki (nuts 2010)",greece,41.1295126,24.8877191
+kentriki makedonia (nuts 2010),greece,40.621173,23.1918021
+dytiki makedonia (nuts 2010),greece,40.3004058,21.7903559
+thessalia (nuts 2010),greece,39.6102887,22.047637
+ipeiros (nuts 2010),greece,39.5706413,20.7642843
+ionia nisia (nuts 2010),greece,38.2489758,20.6247146
+dytiki ellada (nuts 2010),greece,38.5115496,21.5706786
+sterea ellada (nuts 2010),greece,38.6043984,22.7152131
+peloponnisos (nuts 2010),greece,37.349722,22.352222
+attiki,greece,38.0457568,23.8584737
+nisia aigaiou,greece,38.09556411145435,25.65031695609477
+voreio aigaio,greece,39.1069632,26.5579824
+notio aigaio,greece,37.0855302,25.1489215
+kriti,greece,35.240117,24.8092691
+"anatoliki makedonia, thraki",greece,41.1295126,24.8877191
+kentriki makedonia,greece,40.621173,23.1918021
+dytiki makedonia,greece,40.3004058,21.7903559
+ipeiros,greece,39.5706413,20.7642843
+thessalia,greece,39.6102887,22.047637
+ionia nisia,greece,38.2489758,20.6247146
+dytiki elláda,greece,38.5115496,21.5706786
+sterea elláda,greece,38.6043984,22.7152131
+peloponnisos,greece,37.349722,22.352222
+galicia,spain,42.5750554,-8.1338558
+principado de asturias,spain,43.2504393,-5.983257699999999
+cantabria,spain,43.1828396,-3.9878427
+país vasco,spain,42.9896248,-2.6189273
+comunidad foral de navarra,spain,42.6953909,-1.6760691
+la rioja,spain,42.2870733,-2.539603
+aragón,spain,41.5976275,-0.9056623
+comunidad de madrid,spain,40.4167088,-3.5812692
+castilla y león,spain,41.83568210000001,-4.397635699999999
+castilla-la mancha,spain,39.2795607,-3.097702
+extremadura,spain,39.4937392,-6.0679194
+cataluña,spain,41.5911589,1.5208624
+comunitat valenciana,spain,39.4840108,-0.7532808999999999
+illes balears,spain,39.35877591790004,2.735632782011336
+andalucía,spain,37.5442706,-4.7277528
+región de murcia,spain,38.1398141,-1.366216
+ciudad de ceuta,spain,35.8893874,-5.3213455
+ciudad de melilla,spain,35.2942651,-2.9525632
+canarias,spain,28.2915637,-16.6291304
+ile de france,france,48.8499198,2.6370411
+centre — val de loire,france,47.7515686,1.6750631
+bourgogne,france,47.0525047,4.3837215
+franche-comté,france,47.1343207,6.0223016
+basse-normandie,france,48.8788472,-0.5157492
+haute-normandie,france,49.524641,0.8828328999999999
+nord-pas de calais,france,50.48011529999999,2.7937265
+picardie,france,49.66361269999999,2.5280732
+alsace,france,48.3181795,7.441624099999999
+champagne-ardenne,france,48.7934092,4.4725249
+lorraine,france,48.8744233,6.2080932
+pays de la loire,france,47.7632836,-0.3299687
+bretagne,france,48.2020471,-2.9326435
+aquitaine,france,44.7002222,-0.2995785
+limousin,france,45.8932231,1.5696018
+poitou-charentes,france,45.903552,-0.3091837
+languedoc-roussillon,france,43.5912356,3.2583626
+midi-pyrénées,france,44.0859426,1.5208624
+auvergne,france,45.7032695,3.3448536
+rhône-alpes,france,44.952398019338,6.484082302400288
+provence-alpes-côte d’azur,france,43.9351691,6.0679194
+corse,france,42.0396042,9.012892599999999
+guadeloupe,france,16.265,-61.55099999999999
+martinique,france,46.227638,2.213749
+guyane,france,3.933889,-53.125782
+la réunion,france,46.227638,2.213749
+mayotte,france,-12.8275,45.166244
+champagne-ardenne (nuts 2013),france,48.7934092,4.4725249
+picardie (nuts 2013),france,49.66361269999999,2.5280732
+haute-normandie (nuts 2013),france,49.524641,0.8828328999999999
+centre (fr) (nuts 2013),france,47.7515686,1.6750631
+basse-normandie (nuts 2013),france,48.8788472,-0.5157492
+bourgogne (nuts 2013),france,47.0525047,4.3837215
+nord-pas-de-calais (nuts 2013),france,50.5732769,2.3244679
+lorraine (nuts 2013),france,46.227638,2.213749
+alsace (nuts 2013),france,48.3181795,7.441624099999999
+franche-comté (nuts 2013),france,47.1343207,6.0223016
+pays de la loire (nuts 2013),france,47.7632836,-0.3299687
+bretagne (nuts 2013),france,48.2020471,-2.9326435
+poitou-charentes (nuts 2013),france,45.903552,-0.3091837
+aquitaine (nuts 2013),france,44.7002222,-0.2995785
+midi-pyrénées (nuts 2013),france,44.0859426,1.5208624
+limousin (nuts 2013),france,45.8932231,1.5696018
+rhône-alpes (nuts 2013),france,44.952398019338,6.484082302400288
+auvergne (nuts 2013),france,45.7032695,3.3448536
+languedoc-roussillon (nuts 2013),france,43.5912356,3.2583626
+provence-alpes-côte d'azur (nuts 2013),france,43.2547731,6.637857700000001
+corse (nuts 2013),france,42.0396042,9.012892599999999
+guadeloupe (nuts 2013),france,16.265,-61.55099999999999
+martinique (nuts 2013),france,14.641528,-61.024174
+guyane (nuts 2013),france,3.933889,-53.125782
+la réunion (nuts 2013),france,44.2762591,0.1214235
+mayotte (nuts 2013),france,-12.8275,45.166244
+guadeloupe (nuts 2010),france,46.227638,2.213749
+martinique (nuts 2010),france,46.227638,2.213749
+guyane (nuts 2010),france,46.227638,2.213749
+réunion (nuts 2010),france,46.227638,2.213749
+panonska hrvatska,croatia,45.1,15.2
+jadranska hrvatska,croatia,45.1,15.2
+kontinentalna hrvatska (nuts 2016),croatia,45.1,15.2
+grad zagreb,croatia,45.8150108,15.981919
+sjeverna hrvatska,croatia,45.1,15.2
+sjeverozapadna hrvatska (former statistical region),croatia,45.1,15.2
+piemonte,italy,45.0522366,7.5153885
+valle d’aosta/vallée d’aoste,italy,45.7388878,7.426186599999999
+liguria,italy,44.419658,8.528161299999999
+lombardia,italy,45.47906709999999,9.8452433
+provincia autonoma bolzano/bozen (nuts 2006),italy,46.4949259,11.3402543
+provincia autonoma trento (nuts 2006),italy,46.0512004,11.1175392
+veneto (nuts 2006),italy,45.76233329999999,11.690976
+friuli-venezia giulia (nuts 2006),italy,46.2259177,13.1033646
+emilia-romagna (nuts 2006),italy,44.5967607,11.2186396
+toscana (nuts 2006),italy,43.5671153,10.9807003
+umbria (nuts 2006),italy,42.938004,12.6216211
+marche (nuts 2006),italy,43.462735,13.3587288
+lazio (nuts 2006),italy,41.6552418,12.989615
+abruzzo,italy,42.1920119,13.7289167
+molise,italy,41.67388649999999,14.7520939
+campania,italy,41.1125078,14.8454619
+puglia,italy,40.7928393,17.1011931
+basilicata,italy,40.6430766,15.9699878
+calabria,italy,39.3087714,16.3463791
+sicilia,italy,37.3979297,14.6587821
+sardegna,italy,40.1208752,9.012892599999999
+provincia autonoma di bolzano/bozen,italy,46.4949259,11.3402543
+provincia autonoma di trento,italy,46.0512004,11.1175392
+veneto,italy,45.76233329999999,11.690976
+friuli-venezia giulia,italy,46.2259177,13.1033646
+emilia-romagna,italy,44.5967607,11.2186396
+toscana,italy,43.5671153,10.9807003
+umbria,italy,42.938004,12.6216211
+marche,italy,43.462735,13.3587288
+lazio,italy,41.6552418,12.989615
+kýpros,cyprus,35.126413,33.429859
+latvija,latvia,56.879635,24.603189
+sostinės regionas,lithuania,55.169438,23.881275
+vidurio ir vakarų lietuvos regionas,lithuania,55.169438,23.881275
+luxembourg,luxembourg,49.815273,6.129582999999999
+budapest,hungary,47.497912,19.040235
+pest,hungary,47.5002356,19.1000054
+közép-magyarország (nuts 2013),hungary,47.44800009999999,19.4618128
+közép-dunántúl,hungary,46.9558731,18.0726219
+nyugat-dunántúl,hungary,47.2086429,16.9772442
+dél-dunántúl,hungary,46.489217,17.9963593
+észak-magyarország,hungary,48.0033098,20.4737958
+észak-alföld,hungary,47.5523008,21.1162016
+dél-alföld,hungary,46.4922893,19.8418592
+malta,matla,35.937496,14.375416
+groningen,netherlands,53.2193835,6.566501799999999
+friesland (nl),netherlands,53.0839337,5.6544323
+drenthe,netherlands,52.9476012,6.623058599999999
+overijssel,netherlands,52.4387814,6.5016411
+gelderland,netherlands,52.045155,5.871823399999999
+flevoland,netherlands,52.4930507,5.4264142
+utrecht (nuts 2021),netherlands,52.09192549999999,5.1229572
+noord-holland,netherlands,52.6906854,4.8180986
+zuid-holland (nuts 2021),netherlands,52.0207975,4.4937836
+zeeland,netherlands,51.5375988,3.8050334
+utrecht,netherlands,52.09192549999999,5.1229572
+zuid-holland,netherlands,52.0207975,4.4937836
+noord-brabant,netherlands,51.4826537,5.2321687
+limburg (nl),netherlands,51.4427238,6.0608726
+burgenland,austria,47.15371649999999,16.2688797
+niederösterreich,austria,48.10807699999999,15.8049558
+wien,austria,48.20806959999999,16.3713095
+kärnten,austria,46.722203,14.1805881
+steiermark,austria,47.2649012,14.8939302
+oberösterreich,austria,48.025854,13.9723665
+salzburg,austria,47.8014154,13.0448441
+tirol,austria,47.2537414,11.601487
+vorarlberg,austria,47.2497427,9.9797373
+lódzkie (nuts 2013),poland,51.4634771,19.1726974
+mazowieckie (nuts 2013),poland,52.5373228,21.0768288
+małopolskie,poland,49.72253060000001,20.2503359
+śląskie,poland,51.1334501,21.6420157
+lubelskie (nuts 2013),poland,51.2509458,22.5747275
+podkarpackie (nuts 2013),poland,50.0574749,22.0895691
+swietokrzyskie (nuts 2013),poland,50.6261041,20.9406279
+podlaskie (nuts 2013),poland,53.0697159,22.9674639
+wielkopolskie,poland,52.279986,17.3522939
+zachodniopomorskie,poland,53.46578909999999,15.1822581
+lubuskie,poland,52.2274612,15.2559103
+dolnośląskie,poland,51.13398609999999,16.8841961
+opolskie,poland,50.8003761,17.937989
+kujawsko-pomorskie,poland,53.1648363,18.4834224
+warmińsko-mazurskie,poland,53.8671117,20.702786
+pomorskie,poland,54.2944252,18.1531164
+łódzkie,poland,51.4634771,19.1726974
+świętokrzyskie,poland,50.6261041,20.9406279
+lubelskie,poland,51.2509458,22.5747275
+podkarpackie,poland,50.0574749,22.0895691
+podlaskie,poland,54.1055654,23.4952334
+warszawski stołeczny,poland,52.2296756,21.0122287
+mazowiecki regionalny,poland,52.1594532,21.1980076
+norte,portugal,41.3609204,-7.4381355
+algarve,portugal,37.2555153,-8.3964938
+centro (pt) (nuts 2021),portugal,40.6721232,-8.1338558
+área metropolitana de lisboa (nuts 2021),portugal,38.6850433,-8.968701099999999
+alentejo (nuts 2021),portugal,38.2003808,-7.800084999999998
+centro (pt),portugal,40.6721232,-8.1338558
+grande lisboa,portugal,38.6850433,-8.968701099999999
+península de setúbal,portugal,38.5260437,-8.8909328
+alentejo,portugal,38.2003808,-7.800084999999998
+oeste e vale do tejo,portugal,39.72222599365884,-5.511988756441918
+região autónoma dos açores,portugal,37.7412488,-25.6755944
+região autónoma da madeira,portugal,32.76070740000001,-16.9594723
+nord-vest,romania,45.943161,24.96676
+centru,romania,46.1840561,25.2223974
+nord-est,romania,46.962303,26.7706456
+sud-est,romania,45.0168765,27.9423848
+sud-muntenia,romania,44.6628455,25.5450083
+bucureşti-ilfov,romania,44.4267674,26.1025384
+sud-vest oltenia,romania,44.5973326,23.7763435
+vest,romania,45.943161,24.96676
+vzhodna slovenija,solvenia,46.151241,14.995463
+vzhodna slovenija (nuts 2010),solvenia,46.151241,14.995463
+zahodna slovenija,solvenia,46.151241,14.995463
+zahodna slovenija (nuts 2010),solvenia,46.151241,14.995463
+bratislavský kraj,slovakia,48.1485965,17.1077477
+západné slovensko,slovakia,48.669026,19.699024
+stredné slovensko,slovakia,48.669026,19.699024
+východné slovensko,slovakia,48.669026,19.699024
+itä-suomi (nuts 2006),finland,62.56338909999999,28.5024043
+etelä-suomi (nuts 2006),finland,60.63987580000001,26.1285786
+länsi-suomi,finland,62.71515460000001,23.6864448
+pohjois-suomi (nuts 2006),finland,64.4345074,27.4554068
+helsinki-uusimaa,finland,60.16985569999999,24.938379
+etelä-suomi,finland,60.63987580000001,26.1285786
+pohjois- ja itä-suomi,finland,62.56338909999999,28.5024043
+åland,finland,61.92410999999999,25.748151
+stockholm,sweden,59.3360685,18.0842774
+östra mellansverige,sweden,60.12816100000001,18.643501
+småland med öarna,sweden,60.12816100000001,18.643501
+sydsverige,sweden,56.1615894,13.7630614
+västsverige,sweden,60.12816100000001,18.643501
+norra mellansverige,sweden,60.12816100000001,18.643501
+mellersta norrland,sweden,60.12816100000001,18.643501
+övre norrland,sweden,60.12816100000001,18.643501
+ísland,iceland,64.963051,-19.020835
+oslo og akershus (statistical region 2016),norway,59.9138688,10.7522454
+innlandet,norway,61.3368595,9.946462799999999
+sør-østlandet (statistical region 2016),norway,60.47202399999999,8.468945999999999
+agder og rogaland (statistical region 2016),norway,59.1489544,6.0143431
+vestlandet (statistical region 2016),norway,60.8138379,6.1410712
+trøndelag,norway,63.4305149,10.3950528
+nord-norge,norway,69.3281409,18.6939617
+oslo og viken,norway,59.9138688,10.7522454
+agder og sør-østlandet,norway,58.50320840000001,7.757197499999999
+vestlandet,norway,60.8138379,6.1410712
+svalbard og jan mayen,norway,60.47202399999999,8.468945999999999
+région lémanique,switzerland,46.818188,8.227511999999999
+espace mittelland,switzerland,46.818188,8.227511999999999
+nordwestschweiz,switzerland,47.3876664,8.2554295
+zürich,switzerland,47.3768866,8.541694
+ostschweiz,switzerland,47.30397259999999,9.289161199999999
+zentralschweiz,switzerland,46.9586921,8.422521
+ticino,switzerland,46.0580636,8.9901808
+tees valley and durham (nuts 2021),united kingdom,54.6836384,-1.8201775
+northumberland and tyne and wear (nuts 2021),united kingdom,54.9287815,-1.5901755
+cumbria (nuts 2021),united kingdom,54.5772323,-2.7974835
+greater manchester (nuts 2021),united kingdom,53.4575955,-2.1578377
+lancashire (nuts 2021),united kingdom,53.9690089,-2.6276908
+cheshire (nuts 2021),united kingdom,53.23263439999999,-2.6103157
+merseyside (nuts 2021),united kingdom,53.46295809999999,-2.9240946
+east yorkshire and northern lincolnshire (nuts 2021),united kingdom,53.2178821,-0.1999702
+north yorkshire (nuts 2021),united kingdom,54.25035949999999,-1.4708553
+south yorkshire (nuts 2021),united kingdom,53.46969679999999,-1.3259683
+west yorkshire (nuts 2021),united kingdom,53.81081760000001,-1.76261
+derbyshire and nottinghamshire (nuts 2021),united kingdom,53.1285044,-0.9030999
+"leicestershire, rutland and northamptonshire (nuts 2021)",united kingdom,52.6583014,-0.639643
+lincolnshire (nuts 2021),united kingdom,53.2178821,-0.1999702
+"herefordshire, worcestershire and warwickshire (nuts 2021)",united kingdom,52.05639799999999,-2.715974
+shropshire and staffordshire (nuts 2021),united kingdom,52.7063657,-2.7417849
+west midlands (nuts 2021),united kingdom,52.4750743,-1.829833
+east anglia (nuts 2021),united kingdom,52.3555177,-1.1743197
+bedfordshire and hertfordshire (nuts 2021),united kingdom,52.0627394,-0.5292091
+essex (nuts 2021),united kingdom,51.76683689999999,0.4757762
+inner london (nuts 2010),united kingdom,51.45193949999999,-0.0702729
+outer london (nuts 2010),united kingdom,51.5072178,-0.1275862
+inner london - west (nuts 2021),united kingdom,51.45193949999999,-0.0702729
+inner london - east (nuts 2021),united kingdom,51.45193949999999,-0.0702729
+outer london - east and north east (nuts 2021),united kingdom,54.9456129,-1.9479664
+outer london - south (nuts 2021),united kingdom,51.3888898,-0.1403317
+outer london - west and north west (nuts 2021),united kingdom,55.378051,-3.435973
+"berkshire, buckinghamshire and oxfordshire (nuts 2021)",united kingdom,51.8072204,-0.8127664
+"surrey, east and west sussex (nuts 2021)",united kingdom,50.969873,-0.4159547
+hampshire and isle of wight (nuts 2021),united kingdom,50.69384789999999,-1.304734
+kent (nuts 2021),united kingdom,51.0928319,0.8392470999999999
+"gloucestershire, wiltshire and bristol/bath area (nuts 2021)",united kingdom,51.8642449,-2.238156
+dorset and somerset (nuts 2021),united kingdom,51.0634565,-2.7546704
+cornwall and isles of scilly (nuts 2021),united kingdom,50.5036299,-4.6524982
+devon (nuts 2021),united kingdom,50.77721349999999,-3.999461
+west wales and the valleys (nuts 2021),united kingdom,51.79077059999999,-3.9887224
+east wales (nuts 2021),united kingdom,51.6478897,-3.900053599999999
+eastern scotland (nuts 2013),united kingdom,56.49067119999999,-4.2026458
+south western scotland (nuts 2013),united kingdom,56.49067119999999,-4.2026458
+north eastern scotland (nuts 2021),united kingdom,56.49067119999999,-4.2026458
+highlands and islands (nuts 2021),united kingdom,55.378051,-3.435973
+eastern scotland (nuts 2021),united kingdom,56.49067119999999,-4.2026458
+west central scotland (nuts 2021),united kingdom,56.21056,-4.518247100000001
+southern scotland (nuts 2021),united kingdom,56.49067119999999,-4.2026458
+northern ireland (uk) (nuts 2021),united kingdom,54.7877149,-6.4923145
+crna gora,montenegro,42.708678,19.37439
+severna makedonija,north macedonia,41.608635,21.745275
+veri,albania,41.153332,20.168331
+qender,albania,42.2112628,19.4370661
+jug,albania,41.153332,20.168331
+beogradski region,serbia,44.5850395,20.3964026
+region vojvodine,serbia,45.2608651,19.8319339
+region sumadije i zapadne srbije,serbia,44.016521,21.005859
+region juzne i istocne srbije,serbia,44.016521,21.005859
+i̇stanbul,türkiye,41.0082376,28.9783589
+"tekirdağ, edirne, kırklareli",türkiye,41.735472,27.224369
+"balıkesir, çanakkale",türkiye,39.7847294,27.4454265
+i̇zmir,türkiye,38.423734,27.142826
+"aydın, denizli, muğla",türkiye,37.215374,28.363394
+"manisa, afyonkarahisar, kütahya, uşak",türkiye,38.6140337,27.4295624
+"bursa, eskişehir, bilecik",türkiye,39.7667061,30.52563109999999
+"kocaeli, sakarya, düzce, bolu, yalova",türkiye,40.7654408,29.9408089
+ankara,türkiye,39.9333635,32.8597419
+"konya, karaman",türkiye,37.3312948,33.6030238
+"antalya, isparta, burdur",türkiye,37.4612669,30.0665236
+"adana, mersin",türkiye,36.9924805,35.3205996
+"hatay, kahramanmaraş, osmaniye",türkiye,37.5752755,36.9228223
+"kırıkkale, aksaray, niğde, nevşehir, kırşehir",türkiye,39.146078,34.1594989
+"kayseri, sivas, yozgat",türkiye,39.750545,37.0150217
+"zonguldak, karabük, bartın",türkiye,41.843903,32.720692
+"kastamonu, çankırı, sinop",türkiye,42.02797400000001,35.151725
+"samsun, tokat, çorum, amasya",türkiye,40.656455,35.837347
+"trabzon, ordu, giresun, rize, artvin, gümüşhane",türkiye,40.460825,39.480321
+"erzurum, erzincan, bayburt",türkiye,40.26032,40.228048
+"ağrı, kars, iğdır, ardahan",türkiye,39.92005959999999,44.0436151
+"malatya, elazığ, bingöl, tunceli",türkiye,38.674816,39.22251500000001
+"van, muş, bitlis, hakkari",türkiye,37.577427,43.736782
+"gaziantep, adıyaman, kilis",türkiye,37.065953,37.37811
+"şanlıurfa, diyarbakır",türkiye,37.9246099,40.1607219
+"mardin, batman, şırnak, siirt",türkiye,37.518974,42.453714

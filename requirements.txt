@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+boto3
+scikit-learn
+pandas
+huggingface-hub
+datasets
+lxml
+matplotlib
+seaborn
+html5lib
+beautifulsoup4
+mlflow==2.0.0

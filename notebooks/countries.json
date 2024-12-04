@@ -1,0 +1,2246 @@
+[
+  {
+    "name": "Albania",
+    "code": "AL",
+    "provinces": [
+      {
+        "name": "Veri",
+        "latitude": 41.153332,
+        "longitude": 20.168331
+      },
+      {
+        "name": "Qender",
+        "latitude": 42.2112628,
+        "longitude": 19.4370661
+      },
+      {
+        "name": "Jug",
+        "latitude": 41.153332,
+        "longitude": 20.168331
+      }
+    ]
+  },
+  {
+    "name": "Austria",
+    "code": "AT",
+    "provinces": [
+      {
+        "name": "Burgenland",
+        "latitude": 47.15371649999999,
+        "longitude": 16.2688797
+      },
+      {
+        "name": "Nieder\u00f6sterreich",
+        "latitude": 48.10807699999999,
+        "longitude": 15.8049558
+      },
+      {
+        "name": "Wien",
+        "latitude": 48.20806959999999,
+        "longitude": 16.3713095
+      },
+      {
+        "name": "K\u00e4rnten",
+        "latitude": 46.722203,
+        "longitude": 14.1805881
+      },
+      {
+        "name": "Steiermark",
+        "latitude": 47.2649012,
+        "longitude": 14.8939302
+      },
+      {
+        "name": "Ober\u00f6sterreich",
+        "latitude": 48.025854,
+        "longitude": 13.9723665
+      },
+      {
+        "name": "Salzburg",
+        "latitude": 47.8014154,
+        "longitude": 13.0448441
+      },
+      {
+        "name": "Tirol",
+        "latitude": 47.2537414,
+        "longitude": 11.601487
+      },
+      {
+        "name": "Vorarlberg",
+        "latitude": 47.2497427,
+        "longitude": 9.9797373
+      }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "code": "BE",
+    "provinces": [
+      {
+        "name": "R\u00e9gion De Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest",
+        "latitude": 50.8837528,
+        "longitude": 4.3704516
+      },
+      {
+        "name": "Prov. Antwerpen",
+        "latitude": 51.1663636,
+        "longitude": 4.7639649
+      },
+      {
+        "name": "Prov. Limburg (Be)",
+        "latitude": 50.9738973,
+        "longitude": 5.3419677
+      },
+      {
+        "name": "Prov. Oost-Vlaanderen",
+        "latitude": 51.0362101,
+        "longitude": 3.7373124
+      },
+      {
+        "name": "Prov. Vlaams-Brabant",
+        "latitude": 50.8815434,
+        "longitude": 4.564597
+      },
+      {
+        "name": "Prov. West-Vlaanderen",
+        "latitude": 51.0536024,
+        "longitude": 3.1457942
+      },
+      {
+        "name": "Prov. Brabant Wallon",
+        "latitude": 50.633241,
+        "longitude": 4.524315
+      },
+      {
+        "name": "Prov. Hainaut",
+        "latitude": 50.5335001,
+        "longitude": 4.5803998
+      },
+      {
+        "name": "Prov. Li\u00e8ge",
+        "latitude": 50.449642,
+        "longitude": 5.8491614
+      },
+      {
+        "name": "Prov. Luxembourg (Be)",
+        "latitude": 50.503887,
+        "longitude": 4.469936
+      },
+      {
+        "name": "Prov. Namur",
+        "latitude": 50.46493340000001,
+        "longitude": 4.864973099999999
+      }
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "code": "BG",
+    "provinces": [
+      {
+        "name": "Severozapaden",
+        "latitude": 43.4743428,
+        "longitude": 23.9664446
+      },
+      {
+        "name": "Severen Tsentralen",
+        "latitude": 43.7648855,
+        "longitude": 26.650058
+      },
+      {
+        "name": "Severoiztochen",
+        "latitude": 43.318414,
+        "longitude": 27.1875197
+      },
+      {
+        "name": "Yugoiztochen",
+        "latitude": 42.5881068,
+        "longitude": 26.4472951
+      },
+      {
+        "name": "Yugozapaden",
+        "latitude": 42.3312315,
+        "longitude": 23.0011989
+      },
+      {
+        "name": "Yuzhen Tsentralen",
+        "latitude": 41.9975668,
+        "longitude": 24.524264
+      }
+    ]
+  },
+  {
+    "name": "Croatia",
+    "code": "HR",
+    "provinces": [
+      {
+        "name": "Panonska Hrvatska",
+        "latitude": 45.1,
+        "longitude": 15.2
+      },
+      {
+        "name": "Jadranska Hrvatska",
+        "latitude": 45.1,
+        "longitude": 15.2
+      },
+      {
+        "name": "Kontinentalna Hrvatska (Nuts 2016)",
+        "latitude": 45.1,
+        "longitude": 15.2
+      },
+      {
+        "name": "Grad Zagreb",
+        "latitude": 45.8150108,
+        "longitude": 15.981919
+      },
+      {
+        "name": "Sjeverna Hrvatska",
+        "latitude": 45.1,
+        "longitude": 15.2
+      },
+      {
+        "name": "Sjeverozapadna Hrvatska (Former Statistical Region)",
+        "latitude": 45.1,
+        "longitude": 15.2
+      }
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "code": "CY",
+    "provinces": [
+      {
+        "name": "K\u00fdpros",
+        "latitude": 35.126413,
+        "longitude": 33.429859
+      }
+    ]
+  },
+  {
+    "name": "Czechia",
+    "code": "CZ",
+    "provinces": [
+      {
+        "name": "Praha",
+        "latitude": 50.0755381,
+        "longitude": 14.4378005
+      },
+      {
+        "name": "St\u0159edn\u00ed \u010cechy",
+        "latitude": 49.8782223,
+        "longitude": 14.9362955
+      },
+      {
+        "name": "Jihoz\u00e1pad",
+        "latitude": 49.81749199999999,
+        "longitude": 15.472962
+      },
+      {
+        "name": "Severoz\u00e1pad",
+        "latitude": 49.81749199999999,
+        "longitude": 15.472962
+      },
+      {
+        "name": "Severov\u00fdchod",
+        "latitude": 49.8866055,
+        "longitude": 16.8812992
+      },
+      {
+        "name": "Jihov\u00fdchod",
+        "latitude": 49.3876344,
+        "longitude": 16.0778362
+      },
+      {
+        "name": "St\u0159edn\u00ed Morava",
+        "latitude": 49.81749199999999,
+        "longitude": 15.472962
+      },
+      {
+        "name": "Moravskoslezsko",
+        "latitude": 49.7305327,
+        "longitude": 18.2332637
+      }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "code": "DK",
+    "provinces": [
+      {
+        "name": "Hovedstaden",
+        "latitude": 55.8565124,
+        "longitude": 12.3011513
+      },
+      {
+        "name": "Sj\u00e6lland",
+        "latitude": 55.4632518,
+        "longitude": 11.7214979
+      },
+      {
+        "name": "Syddanmark",
+        "latitude": 55.3307714,
+        "longitude": 9.0924903
+      },
+      {
+        "name": "Midtjylland",
+        "latitude": 56.302139,
+        "longitude": 9.3027769
+      },
+      {
+        "name": "Nordjylland",
+        "latitude": 56.8307416,
+        "longitude": 9.4930528
+      }
+    ]
+  },
+  {
+    "name": "Estonia",
+    "code": "EE",
+    "provinces": [
+      {
+        "name": "Eesti",
+        "latitude": 58.595272,
+        "longitude": 25.013607
+      }
+    ]
+  },
+  {
+    "name": "Finland",
+    "code": "FI",
+    "provinces": [
+      {
+        "name": "It\u00e4-Suomi (Nuts 2006)",
+        "latitude": 62.56338909999999,
+        "longitude": 28.5024043
+      },
+      {
+        "name": "Etel\u00e4-Suomi (Nuts 2006)",
+        "latitude": 60.63987580000001,
+        "longitude": 26.1285786
+      },
+      {
+        "name": "L\u00e4nsi-Suomi",
+        "latitude": 62.71515460000001,
+        "longitude": 23.6864448
+      },
+      {
+        "name": "Pohjois-Suomi (Nuts 2006)",
+        "latitude": 64.4345074,
+        "longitude": 27.4554068
+      },
+      {
+        "name": "Helsinki-Uusimaa",
+        "latitude": 60.16985569999999,
+        "longitude": 24.938379
+      },
+      {
+        "name": "Etel\u00e4-Suomi",
+        "latitude": 60.63987580000001,
+        "longitude": 26.1285786
+      },
+      {
+        "name": "Pohjois- Ja It\u00e4-Suomi",
+        "latitude": 62.56338909999999,
+        "longitude": 28.5024043
+      },
+      {
+        "name": "\u00c5land",
+        "latitude": 61.92410999999999,
+        "longitude": 25.748151
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "provinces": [
+      {
+        "name": "Ile De France",
+        "latitude": 48.8499198,
+        "longitude": 2.6370411
+      },
+      {
+        "name": "Centre \u2014 Val De Loire",
+        "latitude": 47.7515686,
+        "longitude": 1.6750631
+      },
+      {
+        "name": "Bourgogne",
+        "latitude": 47.0525047,
+        "longitude": 4.3837215
+      },
+      {
+        "name": "Franche-Comt\u00e9",
+        "latitude": 47.1343207,
+        "longitude": 6.0223016
+      },
+      {
+        "name": "Basse-Normandie",
+        "latitude": 48.8788472,
+        "longitude": -0.5157492
+      },
+      {
+        "name": "Haute-Normandie",
+        "latitude": 49.524641,
+        "longitude": 0.8828328999999999
+      },
+      {
+        "name": "Nord-Pas De Calais",
+        "latitude": 50.48011529999999,
+        "longitude": 2.7937265
+      },
+      {
+        "name": "Picardie",
+        "latitude": 49.66361269999999,
+        "longitude": 2.5280732
+      },
+      {
+        "name": "Alsace",
+        "latitude": 48.3181795,
+        "longitude": 7.441624099999999
+      },
+      {
+        "name": "Champagne-Ardenne",
+        "latitude": 48.7934092,
+        "longitude": 4.4725249
+      },
+      {
+        "name": "Lorraine",
+        "latitude": 48.8744233,
+        "longitude": 6.2080932
+      },
+      {
+        "name": "Pays De La Loire",
+        "latitude": 47.7632836,
+        "longitude": -0.3299687
+      },
+      {
+        "name": "Bretagne",
+        "latitude": 48.2020471,
+        "longitude": -2.9326435
+      },
+      {
+        "name": "Aquitaine",
+        "latitude": 44.7002222,
+        "longitude": -0.2995785
+      },
+      {
+        "name": "Limousin",
+        "latitude": 45.8932231,
+        "longitude": 1.5696018
+      },
+      {
+        "name": "Poitou-Charentes",
+        "latitude": 45.903552,
+        "longitude": -0.3091837
+      },
+      {
+        "name": "Languedoc-Roussillon",
+        "latitude": 43.5912356,
+        "longitude": 3.2583626
+      },
+      {
+        "name": "Midi-Pyr\u00e9n\u00e9es",
+        "latitude": 44.0859426,
+        "longitude": 1.5208624
+      },
+      {
+        "name": "Auvergne",
+        "latitude": 45.7032695,
+        "longitude": 3.3448536
+      },
+      {
+        "name": "Rh\u00f4ne-Alpes",
+        "latitude": 44.952398019338,
+        "longitude": 6.484082302400288
+      },
+      {
+        "name": "Provence-Alpes-C\u00f4te D\u2019Azur",
+        "latitude": 43.9351691,
+        "longitude": 6.0679194
+      },
+      {
+        "name": "Corse",
+        "latitude": 42.0396042,
+        "longitude": 9.0128926
+      },
+      {
+        "name": "Guadeloupe",
+        "latitude": 16.265,
+        "longitude": -61.55099999999999
+      },
+      {
+        "name": "Martinique",
+        "latitude": 46.227638,
+        "longitude": 2.213749
+      },
+      {
+        "name": "Guyane",
+        "latitude": 3.933889,
+        "longitude": -53.125782
+      },
+      {
+        "name": "La R\u00e9union",
+        "latitude": 46.227638,
+        "longitude": 2.213749
+      },
+      {
+        "name": "Mayotte",
+        "latitude": -12.8275,
+        "longitude": 45.166244
+      },
+      {
+        "name": "Champagne-Ardenne (Nuts 2013)",
+        "latitude": 48.7934092,
+        "longitude": 4.4725249
+      },
+      {
+        "name": "Picardie (Nuts 2013)",
+        "latitude": 49.66361269999999,
+        "longitude": 2.5280732
+      },
+      {
+        "name": "Haute-Normandie (Nuts 2013)",
+        "latitude": 49.524641,
+        "longitude": 0.8828328999999999
+      },
+      {
+        "name": "Centre (Fr) (Nuts 2013)",
+        "latitude": 47.7515686,
+        "longitude": 1.6750631
+      },
+      {
+        "name": "Basse-Normandie (Nuts 2013)",
+        "latitude": 48.8788472,
+        "longitude": -0.5157492
+      },
+      {
+        "name": "Bourgogne (Nuts 2013)",
+        "latitude": 47.0525047,
+        "longitude": 4.3837215
+      },
+      {
+        "name": "Nord-Pas-De-Calais (Nuts 2013)",
+        "latitude": 50.5732769,
+        "longitude": 2.3244679
+      },
+      {
+        "name": "Lorraine (Nuts 2013)",
+        "latitude": 46.227638,
+        "longitude": 2.213749
+      },
+      {
+        "name": "Alsace (Nuts 2013)",
+        "latitude": 48.3181795,
+        "longitude": 7.441624099999999
+      },
+      {
+        "name": "Franche-Comt\u00e9 (Nuts 2013)",
+        "latitude": 47.1343207,
+        "longitude": 6.0223016
+      },
+      {
+        "name": "Pays De La Loire (Nuts 2013)",
+        "latitude": 47.7632836,
+        "longitude": -0.3299687
+      },
+      {
+        "name": "Bretagne (Nuts 2013)",
+        "latitude": 48.2020471,
+        "longitude": -2.9326435
+      },
+      {
+        "name": "Poitou-Charentes (Nuts 2013)",
+        "latitude": 45.903552,
+        "longitude": -0.3091837
+      },
+      {
+        "name": "Aquitaine (Nuts 2013)",
+        "latitude": 44.7002222,
+        "longitude": -0.2995785
+      },
+      {
+        "name": "Midi-Pyr\u00e9n\u00e9es (Nuts 2013)",
+        "latitude": 44.0859426,
+        "longitude": 1.5208624
+      },
+      {
+        "name": "Limousin (Nuts 2013)",
+        "latitude": 45.8932231,
+        "longitude": 1.5696018
+      },
+      {
+        "name": "Rh\u00f4ne-Alpes (Nuts 2013)",
+        "latitude": 44.952398019338,
+        "longitude": 6.484082302400288
+      },
+      {
+        "name": "Auvergne (Nuts 2013)",
+        "latitude": 45.7032695,
+        "longitude": 3.3448536
+      },
+      {
+        "name": "Languedoc-Roussillon (Nuts 2013)",
+        "latitude": 43.5912356,
+        "longitude": 3.2583626
+      },
+      {
+        "name": "Provence-Alpes-C\u00f4te D'Azur (Nuts 2013)",
+        "latitude": 43.2547731,
+        "longitude": 6.637857700000001
+      },
+      {
+        "name": "Corse (Nuts 2013)",
+        "latitude": 42.0396042,
+        "longitude": 9.0128926
+      },
+      {
+        "name": "Guadeloupe (Nuts 2013)",
+        "latitude": 16.265,
+        "longitude": -61.55099999999999
+      },
+      {
+        "name": "Martinique (Nuts 2013)",
+        "latitude": 14.641528,
+        "longitude": -61.024174
+      },
+      {
+        "name": "Guyane (Nuts 2013)",
+        "latitude": 3.933889,
+        "longitude": -53.125782
+      },
+      {
+        "name": "La R\u00e9union (Nuts 2013)",
+        "latitude": 44.2762591,
+        "longitude": 0.1214235
+      },
+      {
+        "name": "Mayotte (Nuts 2013)",
+        "latitude": -12.8275,
+        "longitude": 45.166244
+      },
+      {
+        "name": "Guadeloupe (Nuts 2010)",
+        "latitude": 46.227638,
+        "longitude": 2.213749
+      },
+      {
+        "name": "Martinique (Nuts 2010)",
+        "latitude": 46.227638,
+        "longitude": 2.213749
+      },
+      {
+        "name": "Guyane (Nuts 2010)",
+        "latitude": 46.227638,
+        "longitude": 2.213749
+      },
+      {
+        "name": "R\u00e9union (Nuts 2010)",
+        "latitude": 46.227638,
+        "longitude": 2.213749
+      }
+    ]
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "provinces": [
+      {
+        "name": "Stuttgart",
+        "latitude": 48.7758459,
+        "longitude": 9.1829321
+      },
+      {
+        "name": "Karlsruhe",
+        "latitude": 49.0068901,
+        "longitude": 8.4036527
+      },
+      {
+        "name": "Freiburg",
+        "latitude": 47.9990077,
+        "longitude": 7.842104299999999
+      },
+      {
+        "name": "T\u00fcbingen",
+        "latitude": 48.5216364,
+        "longitude": 9.0576448
+      },
+      {
+        "name": "Oberbayern",
+        "latitude": 47.9520866,
+        "longitude": 11.7877295
+      },
+      {
+        "name": "Niederbayern",
+        "latitude": 48.7896497,
+        "longitude": 13.0208058
+      },
+      {
+        "name": "Oberpfalz",
+        "latitude": 49.5554229,
+        "longitude": 12.0380948
+      },
+      {
+        "name": "Oberfranken",
+        "latitude": 49.9599819,
+        "longitude": 11.3216311
+      },
+      {
+        "name": "Mittelfranken",
+        "latitude": 49.36332729999999,
+        "longitude": 10.6506315
+      },
+      {
+        "name": "Unterfranken",
+        "latitude": 50.0780217,
+        "longitude": 10.0511934
+      },
+      {
+        "name": "Schwaben",
+        "latitude": 48.38146709999999,
+        "longitude": 10.7008406
+      },
+      {
+        "name": "Berlin",
+        "latitude": 52.52000659999999,
+        "longitude": 13.404954
+      },
+      {
+        "name": "Brandenburg",
+        "latitude": 52.4125287,
+        "longitude": 12.5316444
+      },
+      {
+        "name": "Bremen",
+        "latitude": 53.07929619999999,
+        "longitude": 8.8016937
+      },
+      {
+        "name": "Hamburg",
+        "latitude": 53.5488282,
+        "longitude": 9.9871703
+      },
+      {
+        "name": "Darmstadt",
+        "latitude": 49.8728253,
+        "longitude": 8.6511929
+      },
+      {
+        "name": "Gie\u00dfen",
+        "latitude": 50.5840512,
+        "longitude": 8.678403099999999
+      },
+      {
+        "name": "Kassel",
+        "latitude": 51.3118828,
+        "longitude": 9.4915751
+      },
+      {
+        "name": "Mecklenburg-Vorpommern",
+        "latitude": 53.6126505,
+        "longitude": 12.4295953
+      },
+      {
+        "name": "Braunschweig",
+        "latitude": 52.2677907,
+        "longitude": 10.5245656
+      },
+      {
+        "name": "Hannover",
+        "latitude": 52.3758916,
+        "longitude": 9.732010400000002
+      },
+      {
+        "name": "L\u00fcneburg",
+        "latitude": 53.2478704,
+        "longitude": 10.4160637
+      },
+      {
+        "name": "Weser-Ems",
+        "latitude": 52.55581801396313,
+        "longitude": 8.977782663562657
+      },
+      {
+        "name": "D\u00fcsseldorf",
+        "latitude": 51.2230411,
+        "longitude": 6.7824545
+      },
+      {
+        "name": "K\u00f6ln",
+        "latitude": 50.937531,
+        "longitude": 6.9602786
+      },
+      {
+        "name": "M\u00fcnster",
+        "latitude": 51.9606649,
+        "longitude": 7.6261347
+      },
+      {
+        "name": "Detmold",
+        "latitude": 51.9384783,
+        "longitude": 8.868637999999999
+      },
+      {
+        "name": "Arnsberg",
+        "latitude": 51.4073375,
+        "longitude": 8.052771
+      },
+      {
+        "name": "Koblenz",
+        "latitude": 50.3569429,
+        "longitude": 7.5889959
+      },
+      {
+        "name": "Trier",
+        "latitude": 49.7500569,
+        "longitude": 6.637188999999999
+      },
+      {
+        "name": "Rheinhessen-Pfalz",
+        "latitude": 50.118346,
+        "longitude": 7.3089527
+      },
+      {
+        "name": "Saarland",
+        "latitude": 49.3964234,
+        "longitude": 7.0229607
+      },
+      {
+        "name": "Dresden",
+        "latitude": 51.0504088,
+        "longitude": 13.7372621
+      },
+      {
+        "name": "Chemnitz",
+        "latitude": 50.8282222,
+        "longitude": 12.9208547
+      },
+      {
+        "name": "Leipzig",
+        "latitude": 51.3396955,
+        "longitude": 12.3730747
+      },
+      {
+        "name": "Sachsen-Anhalt",
+        "latitude": 51.9502649,
+        "longitude": 11.6922735
+      },
+      {
+        "name": "Schleswig-Holstein",
+        "latitude": 54.21936720000001,
+        "longitude": 9.6961167
+      },
+      {
+        "name": "Th\u00fcringen",
+        "latitude": 51.0109892,
+        "longitude": 10.845346
+      }
+    ]
+  },
+  {
+    "name": "Greece",
+    "code": "EL",
+    "provinces": [
+      {
+        "name": "Anatoliki Makedonia, Thraki (Nuts 2010)",
+        "latitude": 41.1295126,
+        "longitude": 24.8877191
+      },
+      {
+        "name": "Kentriki Makedonia (Nuts 2010)",
+        "latitude": 40.621173,
+        "longitude": 23.1918021
+      },
+      {
+        "name": "Dytiki Makedonia (Nuts 2010)",
+        "latitude": 40.3004058,
+        "longitude": 21.7903559
+      },
+      {
+        "name": "Thessalia (Nuts 2010)",
+        "latitude": 39.6102887,
+        "longitude": 22.047637
+      },
+      {
+        "name": "Ipeiros (Nuts 2010)",
+        "latitude": 39.5706413,
+        "longitude": 20.7642843
+      },
+      {
+        "name": "Ionia Nisia (Nuts 2010)",
+        "latitude": 38.2489758,
+        "longitude": 20.6247146
+      },
+      {
+        "name": "Dytiki Ellada (Nuts 2010)",
+        "latitude": 38.5115496,
+        "longitude": 21.5706786
+      },
+      {
+        "name": "Sterea Ellada (Nuts 2010)",
+        "latitude": 38.6043984,
+        "longitude": 22.7152131
+      },
+      {
+        "name": "Peloponnisos (Nuts 2010)",
+        "latitude": 37.349722,
+        "longitude": 22.352222
+      },
+      {
+        "name": "Attiki",
+        "latitude": 38.0457568,
+        "longitude": 23.8584737
+      },
+      {
+        "name": "Nisia Aigaiou",
+        "latitude": 38.09556411145435,
+        "longitude": 25.65031695609477
+      },
+      {
+        "name": "Voreio Aigaio",
+        "latitude": 39.1069632,
+        "longitude": 26.5579824
+      },
+      {
+        "name": "Notio Aigaio",
+        "latitude": 37.0855302,
+        "longitude": 25.1489215
+      },
+      {
+        "name": "Kriti",
+        "latitude": 35.240117,
+        "longitude": 24.8092691
+      },
+      {
+        "name": "Anatoliki Makedonia, Thraki",
+        "latitude": 41.1295126,
+        "longitude": 24.8877191
+      },
+      {
+        "name": "Kentriki Makedonia",
+        "latitude": 40.621173,
+        "longitude": 23.1918021
+      },
+      {
+        "name": "Dytiki Makedonia",
+        "latitude": 40.3004058,
+        "longitude": 21.7903559
+      },
+      {
+        "name": "Ipeiros",
+        "latitude": 39.5706413,
+        "longitude": 20.7642843
+      },
+      {
+        "name": "Thessalia",
+        "latitude": 39.6102887,
+        "longitude": 22.047637
+      },
+      {
+        "name": "Ionia Nisia",
+        "latitude": 38.2489758,
+        "longitude": 20.6247146
+      },
+      {
+        "name": "Dytiki Ell\u00e1da",
+        "latitude": 38.5115496,
+        "longitude": 21.5706786
+      },
+      {
+        "name": "Sterea Ell\u00e1da",
+        "latitude": 38.6043984,
+        "longitude": 22.7152131
+      },
+      {
+        "name": "Peloponnisos",
+        "latitude": 37.349722,
+        "longitude": 22.352222
+      }
+    ]
+  },
+  {
+    "name": "Hungary",
+    "code": "HU",
+    "provinces": [
+      {
+        "name": "Budapest",
+        "latitude": 47.497912,
+        "longitude": 19.040235
+      },
+      {
+        "name": "Pest",
+        "latitude": 47.5002356,
+        "longitude": 19.1000054
+      },
+      {
+        "name": "K\u00f6z\u00e9p-Magyarorsz\u00e1g (Nuts 2013)",
+        "latitude": 47.44800009999999,
+        "longitude": 19.4618128
+      },
+      {
+        "name": "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+        "latitude": 46.9558731,
+        "longitude": 18.0726219
+      },
+      {
+        "name": "Nyugat-Dun\u00e1nt\u00fal",
+        "latitude": 47.2086429,
+        "longitude": 16.9772442
+      },
+      {
+        "name": "D\u00e9l-Dun\u00e1nt\u00fal",
+        "latitude": 46.489217,
+        "longitude": 17.9963593
+      },
+      {
+        "name": "\u00c9szak-Magyarorsz\u00e1g",
+        "latitude": 48.0033098,
+        "longitude": 20.4737958
+      },
+      {
+        "name": "\u00c9szak-Alf\u00f6ld",
+        "latitude": 47.5523008,
+        "longitude": 21.1162016
+      },
+      {
+        "name": "D\u00e9l-Alf\u00f6ld",
+        "latitude": 46.4922893,
+        "longitude": 19.8418592
+      }
+    ]
+  },
+  {
+    "name": "Iceland",
+    "code": "IS",
+    "provinces": [
+      {
+        "name": "\u00cdsland",
+        "latitude": 64.963051,
+        "longitude": -19.020835
+      }
+    ]
+  },
+  {
+    "name": "Ireland",
+    "code": "IE",
+    "provinces": [
+      {
+        "name": "Northern And Western",
+        "latitude": 53.77975540000001,
+        "longitude": -7.3055309
+      },
+      {
+        "name": "Southern",
+        "latitude": 53.41291,
+        "longitude": -8.24389
+      },
+      {
+        "name": "Eastern And Midland",
+        "latitude": 53.3954971,
+        "longitude": -6.263833900000001
+      },
+      {
+        "name": "Border, Midland And Western (Nuts 2013)",
+        "latitude": 53.77975540000001,
+        "longitude": -7.3055309
+      },
+      {
+        "name": "Southern And Eastern (Nuts 2013)",
+        "latitude": 53.77975540000001,
+        "longitude": -7.3055309
+      }
+    ]
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "provinces": [
+      {
+        "name": "Piemonte",
+        "latitude": 45.0522366,
+        "longitude": 7.5153885
+      },
+      {
+        "name": "Valle D\u2019Aosta/Vall\u00e9e D\u2019Aoste",
+        "latitude": 45.7388878,
+        "longitude": 7.426186599999999
+      },
+      {
+        "name": "Liguria",
+        "latitude": 44.419658,
+        "longitude": 8.528161299999999
+      },
+      {
+        "name": "Lombardia",
+        "latitude": 45.47906709999999,
+        "longitude": 9.8452433
+      },
+      {
+        "name": "Provincia Autonoma Bolzano/Bozen (Nuts 2006)",
+        "latitude": 46.4949259,
+        "longitude": 11.3402543
+      },
+      {
+        "name": "Provincia Autonoma Trento (Nuts 2006)",
+        "latitude": 46.0512004,
+        "longitude": 11.1175392
+      },
+      {
+        "name": "Veneto (Nuts 2006)",
+        "latitude": 45.76233329999999,
+        "longitude": 11.690976
+      },
+      {
+        "name": "Friuli-Venezia Giulia (Nuts 2006)",
+        "latitude": 46.2259177,
+        "longitude": 13.1033646
+      },
+      {
+        "name": "Emilia-Romagna (Nuts 2006)",
+        "latitude": 44.5967607,
+        "longitude": 11.2186396
+      },
+      {
+        "name": "Toscana (Nuts 2006)",
+        "latitude": 43.5671153,
+        "longitude": 10.9807003
+      },
+      {
+        "name": "Umbria (Nuts 2006)",
+        "latitude": 42.938004,
+        "longitude": 12.6216211
+      },
+      {
+        "name": "Marche (Nuts 2006)",
+        "latitude": 43.462735,
+        "longitude": 13.3587288
+      },
+      {
+        "name": "Lazio (Nuts 2006)",
+        "latitude": 41.6552418,
+        "longitude": 12.989615
+      },
+      {
+        "name": "Abruzzo",
+        "latitude": 42.1920119,
+        "longitude": 13.7289167
+      },
+      {
+        "name": "Molise",
+        "latitude": 41.67388649999999,
+        "longitude": 14.7520939
+      },
+      {
+        "name": "Campania",
+        "latitude": 41.1125078,
+        "longitude": 14.8454619
+      },
+      {
+        "name": "Puglia",
+        "latitude": 40.7928393,
+        "longitude": 17.1011931
+      },
+      {
+        "name": "Basilicata",
+        "latitude": 40.6430766,
+        "longitude": 15.9699878
+      },
+      {
+        "name": "Calabria",
+        "latitude": 39.3087714,
+        "longitude": 16.3463791
+      },
+      {
+        "name": "Sicilia",
+        "latitude": 37.3979297,
+        "longitude": 14.6587821
+      },
+      {
+        "name": "Sardegna",
+        "latitude": 40.1208752,
+        "longitude": 9.0128926
+      },
+      {
+        "name": "Provincia Autonoma Di Bolzano/Bozen",
+        "latitude": 46.4949259,
+        "longitude": 11.3402543
+      },
+      {
+        "name": "Provincia Autonoma Di Trento",
+        "latitude": 46.0512004,
+        "longitude": 11.1175392
+      },
+      {
+        "name": "Veneto",
+        "latitude": 45.76233329999999,
+        "longitude": 11.690976
+      },
+      {
+        "name": "Friuli-Venezia Giulia",
+        "latitude": 46.2259177,
+        "longitude": 13.1033646
+      },
+      {
+        "name": "Emilia-Romagna",
+        "latitude": 44.5967607,
+        "longitude": 11.2186396
+      },
+      {
+        "name": "Toscana",
+        "latitude": 43.5671153,
+        "longitude": 10.9807003
+      },
+      {
+        "name": "Umbria",
+        "latitude": 42.938004,
+        "longitude": 12.6216211
+      },
+      {
+        "name": "Marche",
+        "latitude": 43.462735,
+        "longitude": 13.3587288
+      },
+      {
+        "name": "Lazio",
+        "latitude": 41.6552418,
+        "longitude": 12.989615
+      }
+    ]
+  },
+  {
+    "name": "Latvia",
+    "code": "LV",
+    "provinces": [
+      {
+        "name": "Latvija",
+        "latitude": 56.879635,
+        "longitude": 24.603189
+      }
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "code": "LT",
+    "provinces": [
+      {
+        "name": "Sostin\u0117s Regionas",
+        "latitude": 55.169438,
+        "longitude": 23.881275
+      },
+      {
+        "name": "Vidurio Ir Vakar\u0173 Lietuvos Regionas",
+        "latitude": 55.169438,
+        "longitude": 23.881275
+      }
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LU",
+    "provinces": [
+      {
+        "name": "Luxembourg",
+        "latitude": 49.815273,
+        "longitude": 6.129582999999999
+      }
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "code": "ME",
+    "provinces": [
+      {
+        "name": "Crna Gora",
+        "latitude": 42.708678,
+        "longitude": 19.37439
+      }
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "code": "NL",
+    "provinces": [
+      {
+        "name": "Groningen",
+        "latitude": 53.2193835,
+        "longitude": 6.566501799999999
+      },
+      {
+        "name": "Friesland (Nl)",
+        "latitude": 53.0839337,
+        "longitude": 5.6544323
+      },
+      {
+        "name": "Drenthe",
+        "latitude": 52.9476012,
+        "longitude": 6.623058599999999
+      },
+      {
+        "name": "Overijssel",
+        "latitude": 52.4387814,
+        "longitude": 6.5016411
+      },
+      {
+        "name": "Gelderland",
+        "latitude": 52.045155,
+        "longitude": 5.871823399999999
+      },
+      {
+        "name": "Flevoland",
+        "latitude": 52.4930507,
+        "longitude": 5.4264142
+      },
+      {
+        "name": "Utrecht (Nuts 2021)",
+        "latitude": 52.09192549999999,
+        "longitude": 5.1229572
+      },
+      {
+        "name": "Noord-Holland",
+        "latitude": 52.6906854,
+        "longitude": 4.8180986
+      },
+      {
+        "name": "Zuid-Holland (Nuts 2021)",
+        "latitude": 52.0207975,
+        "longitude": 4.4937836
+      },
+      {
+        "name": "Zeeland",
+        "latitude": 51.5375988,
+        "longitude": 3.8050334
+      },
+      {
+        "name": "Utrecht",
+        "latitude": 52.09192549999999,
+        "longitude": 5.1229572
+      },
+      {
+        "name": "Zuid-Holland",
+        "latitude": 52.0207975,
+        "longitude": 4.4937836
+      },
+      {
+        "name": "Noord-Brabant",
+        "latitude": 51.4826537,
+        "longitude": 5.2321687
+      },
+      {
+        "name": "Limburg (Nl)",
+        "latitude": 51.4427238,
+        "longitude": 6.0608726
+      }
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "code": "MK",
+    "provinces": [
+      {
+        "name": "Severna Makedonija",
+        "latitude": 41.608635,
+        "longitude": 21.745275
+      }
+    ]
+  },
+  {
+    "name": "Norway",
+    "code": "NO",
+    "provinces": [
+      {
+        "name": "Oslo Og Akershus (Statistical Region 2016)",
+        "latitude": 59.9138688,
+        "longitude": 10.7522454
+      },
+      {
+        "name": "Innlandet",
+        "latitude": 61.3368595,
+        "longitude": 9.9464628
+      },
+      {
+        "name": "S\u00f8r-\u00d8stlandet (Statistical Region 2016)",
+        "latitude": 60.47202399999999,
+        "longitude": 8.468945999999999
+      },
+      {
+        "name": "Agder Og Rogaland (Statistical Region 2016)",
+        "latitude": 59.1489544,
+        "longitude": 6.0143431
+      },
+      {
+        "name": "Vestlandet (Statistical Region 2016)",
+        "latitude": 60.8138379,
+        "longitude": 6.1410712
+      },
+      {
+        "name": "Tr\u00f8ndelag",
+        "latitude": 63.4305149,
+        "longitude": 10.3950528
+      },
+      {
+        "name": "Nord-Norge",
+        "latitude": 69.3281409,
+        "longitude": 18.6939617
+      },
+      {
+        "name": "Oslo Og Viken",
+        "latitude": 59.9138688,
+        "longitude": 10.7522454
+      },
+      {
+        "name": "Agder Og S\u00f8r-\u00d8stlandet",
+        "latitude": 58.50320840000001,
+        "longitude": 7.757197499999999
+      },
+      {
+        "name": "Vestlandet",
+        "latitude": 60.8138379,
+        "longitude": 6.1410712
+      },
+      {
+        "name": "Svalbard Og Jan Mayen",
+        "latitude": 60.47202399999999,
+        "longitude": 8.468945999999999
+      }
+    ]
+  },
+  {
+    "name": "Poland",
+    "code": "PL",
+    "provinces": [
+      {
+        "name": "L\u00f3dzkie (Nuts 2013)",
+        "latitude": 51.4634771,
+        "longitude": 19.1726974
+      },
+      {
+        "name": "Mazowieckie (Nuts 2013)",
+        "latitude": 52.5373228,
+        "longitude": 21.0768288
+      },
+      {
+        "name": "Ma\u0142opolskie",
+        "latitude": 49.72253060000001,
+        "longitude": 20.2503359
+      },
+      {
+        "name": "\u015al\u0105skie",
+        "latitude": 51.1334501,
+        "longitude": 21.6420157
+      },
+      {
+        "name": "Lubelskie (Nuts 2013)",
+        "latitude": 51.2509458,
+        "longitude": 22.5747275
+      },
+      {
+        "name": "Podkarpackie (Nuts 2013)",
+        "latitude": 50.0574749,
+        "longitude": 22.0895691
+      },
+      {
+        "name": "Swietokrzyskie (Nuts 2013)",
+        "latitude": 50.6261041,
+        "longitude": 20.9406279
+      },
+      {
+        "name": "Podlaskie (Nuts 2013)",
+        "latitude": 53.0697159,
+        "longitude": 22.9674639
+      },
+      {
+        "name": "Wielkopolskie",
+        "latitude": 52.279986,
+        "longitude": 17.3522939
+      },
+      {
+        "name": "Zachodniopomorskie",
+        "latitude": 53.46578909999999,
+        "longitude": 15.1822581
+      },
+      {
+        "name": "Lubuskie",
+        "latitude": 52.2274612,
+        "longitude": 15.2559103
+      },
+      {
+        "name": "Dolno\u015bl\u0105skie",
+        "latitude": 51.13398609999999,
+        "longitude": 16.8841961
+      },
+      {
+        "name": "Opolskie",
+        "latitude": 50.8003761,
+        "longitude": 17.937989
+      },
+      {
+        "name": "Kujawsko-Pomorskie",
+        "latitude": 53.1648363,
+        "longitude": 18.4834224
+      },
+      {
+        "name": "Warmi\u0144sko-Mazurskie",
+        "latitude": 53.8671117,
+        "longitude": 20.702786
+      },
+      {
+        "name": "Pomorskie",
+        "latitude": 54.2944252,
+        "longitude": 18.1531164
+      },
+      {
+        "name": "\u0141\u00f3dzkie",
+        "latitude": 51.4634771,
+        "longitude": 19.1726974
+      },
+      {
+        "name": "\u015awi\u0119tokrzyskie",
+        "latitude": 50.6261041,
+        "longitude": 20.9406279
+      },
+      {
+        "name": "Lubelskie",
+        "latitude": 51.2509458,
+        "longitude": 22.5747275
+      },
+      {
+        "name": "Podkarpackie",
+        "latitude": 50.0574749,
+        "longitude": 22.0895691
+      },
+      {
+        "name": "Podlaskie",
+        "latitude": 54.1055654,
+        "longitude": 23.4952334
+      },
+      {
+        "name": "Warszawski Sto\u0142eczny",
+        "latitude": 52.2296756,
+        "longitude": 21.0122287
+      },
+      {
+        "name": "Mazowiecki Regionalny",
+        "latitude": 52.1594532,
+        "longitude": 21.1980076
+      }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "code": "PT",
+    "provinces": [
+      {
+        "name": "Norte",
+        "latitude": 41.3609204,
+        "longitude": -7.4381355
+      },
+      {
+        "name": "Algarve",
+        "latitude": 37.2555153,
+        "longitude": -8.3964938
+      },
+      {
+        "name": "Centro (Pt) (Nuts 2021)",
+        "latitude": 40.6721232,
+        "longitude": -8.1338558
+      },
+      {
+        "name": "\u00c1rea Metropolitana De Lisboa (Nuts 2021)",
+        "latitude": 38.6850433,
+        "longitude": -8.968701099999999
+      },
+      {
+        "name": "Alentejo (Nuts 2021)",
+        "latitude": 38.2003808,
+        "longitude": -7.800084999999998
+      },
+      {
+        "name": "Centro (Pt)",
+        "latitude": 40.6721232,
+        "longitude": -8.1338558
+      },
+      {
+        "name": "Grande Lisboa",
+        "latitude": 38.6850433,
+        "longitude": -8.968701099999999
+      },
+      {
+        "name": "Pen\u00ednsula De Set\u00fabal",
+        "latitude": 38.5260437,
+        "longitude": -8.8909328
+      },
+      {
+        "name": "Alentejo",
+        "latitude": 38.2003808,
+        "longitude": -7.800084999999998
+      },
+      {
+        "name": "Oeste E Vale Do Tejo",
+        "latitude": 39.72222599365884,
+        "longitude": -5.511988756441918
+      },
+      {
+        "name": "Regi\u00e3o Aut\u00f3noma Dos A\u00e7ores",
+        "latitude": 37.7412488,
+        "longitude": -25.6755944
+      },
+      {
+        "name": "Regi\u00e3o Aut\u00f3noma Da Madeira",
+        "latitude": 32.76070740000001,
+        "longitude": -16.9594723
+      }
+    ]
+  },
+  {
+    "name": "Romania",
+    "code": "RO",
+    "provinces": [
+      {
+        "name": "Nord-Vest",
+        "latitude": 45.943161,
+        "longitude": 24.96676
+      },
+      {
+        "name": "Centru",
+        "latitude": 46.1840561,
+        "longitude": 25.2223974
+      },
+      {
+        "name": "Nord-Est",
+        "latitude": 46.962303,
+        "longitude": 26.7706456
+      },
+      {
+        "name": "Sud-Est",
+        "latitude": 45.0168765,
+        "longitude": 27.9423848
+      },
+      {
+        "name": "Sud-Muntenia",
+        "latitude": 44.6628455,
+        "longitude": 25.5450083
+      },
+      {
+        "name": "Bucure\u015fti-Ilfov",
+        "latitude": 44.4267674,
+        "longitude": 26.1025384
+      },
+      {
+        "name": "Sud-Vest Oltenia",
+        "latitude": 44.5973326,
+        "longitude": 23.7763435
+      },
+      {
+        "name": "Vest",
+        "latitude": 45.943161,
+        "longitude": 24.96676
+      }
+    ]
+  },
+  {
+    "name": "Serbia",
+    "code": "RS",
+    "provinces": [
+      {
+        "name": "Beogradski Region",
+        "latitude": 44.5850395,
+        "longitude": 20.3964026
+      },
+      {
+        "name": "Region Vojvodine",
+        "latitude": 45.2608651,
+        "longitude": 19.8319339
+      },
+      {
+        "name": "Region Sumadije I Zapadne Srbije",
+        "latitude": 44.016521,
+        "longitude": 21.005859
+      },
+      {
+        "name": "Region Juzne I Istocne Srbije",
+        "latitude": 44.016521,
+        "longitude": 21.005859
+      }
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "code": "SK",
+    "provinces": [
+      {
+        "name": "Bratislavsk\u00fd Kraj",
+        "latitude": 48.1485965,
+        "longitude": 17.1077477
+      },
+      {
+        "name": "Z\u00e1padn\u00e9 Slovensko",
+        "latitude": 48.669026,
+        "longitude": 19.699024
+      },
+      {
+        "name": "Stredn\u00e9 Slovensko",
+        "latitude": 48.669026,
+        "longitude": 19.699024
+      },
+      {
+        "name": "V\u00fdchodn\u00e9 Slovensko",
+        "latitude": 48.669026,
+        "longitude": 19.699024
+      }
+    ]
+  },
+  {
+    "name": "Spain",
+    "code": "ES",
+    "provinces": [
+      {
+        "name": "Galicia",
+        "latitude": 42.5750554,
+        "longitude": -8.1338558
+      },
+      {
+        "name": "Principado De Asturias",
+        "latitude": 43.2504393,
+        "longitude": -5.983257699999999
+      },
+      {
+        "name": "Cantabria",
+        "latitude": 43.1828396,
+        "longitude": -3.9878427
+      },
+      {
+        "name": "Pa\u00eds Vasco",
+        "latitude": 42.9896248,
+        "longitude": -2.6189273
+      },
+      {
+        "name": "Comunidad Foral De Navarra",
+        "latitude": 42.6953909,
+        "longitude": -1.6760691
+      },
+      {
+        "name": "La Rioja",
+        "latitude": 42.2870733,
+        "longitude": -2.539603
+      },
+      {
+        "name": "Arag\u00f3n",
+        "latitude": 41.5976275,
+        "longitude": -0.9056623
+      },
+      {
+        "name": "Comunidad De Madrid",
+        "latitude": 40.4167088,
+        "longitude": -3.5812692
+      },
+      {
+        "name": "Castilla Y Le\u00f3n",
+        "latitude": 41.83568210000001,
+        "longitude": -4.397635699999999
+      },
+      {
+        "name": "Castilla-La Mancha",
+        "latitude": 39.2795607,
+        "longitude": -3.097702
+      },
+      {
+        "name": "Extremadura",
+        "latitude": 39.4937392,
+        "longitude": -6.0679194
+      },
+      {
+        "name": "Catalu\u00f1a",
+        "latitude": 41.5911589,
+        "longitude": 1.5208624
+      },
+      {
+        "name": "Comunitat Valenciana",
+        "latitude": 39.4840108,
+        "longitude": -0.7532808999999999
+      },
+      {
+        "name": "Illes Balears",
+        "latitude": 39.35877591790004,
+        "longitude": 2.735632782011336
+      },
+      {
+        "name": "Andaluc\u00eda",
+        "latitude": 37.5442706,
+        "longitude": -4.7277528
+      },
+      {
+        "name": "Regi\u00f3n De Murcia",
+        "latitude": 38.1398141,
+        "longitude": -1.366216
+      },
+      {
+        "name": "Ciudad De Ceuta",
+        "latitude": 35.8893874,
+        "longitude": -5.3213455
+      },
+      {
+        "name": "Ciudad De Melilla",
+        "latitude": 35.2942651,
+        "longitude": -2.9525632
+      },
+      {
+        "name": "Canarias",
+        "latitude": 28.2915637,
+        "longitude": -16.6291304
+      }
+    ]
+  },
+  {
+    "name": "Sweden",
+    "code": "SE",
+    "provinces": [
+      {
+        "name": "Stockholm",
+        "latitude": 59.3360685,
+        "longitude": 18.0842774
+      },
+      {
+        "name": "\u00d6stra Mellansverige",
+        "latitude": 60.12816100000001,
+        "longitude": 18.643501
+      },
+      {
+        "name": "Sm\u00e5land Med \u00d6arna",
+        "latitude": 60.12816100000001,
+        "longitude": 18.643501
+      },
+      {
+        "name": "Sydsverige",
+        "latitude": 56.1615894,
+        "longitude": 13.7630614
+      },
+      {
+        "name": "V\u00e4stsverige",
+        "latitude": 60.12816100000001,
+        "longitude": 18.643501
+      },
+      {
+        "name": "Norra Mellansverige",
+        "latitude": 60.12816100000001,
+        "longitude": 18.643501
+      },
+      {
+        "name": "Mellersta Norrland",
+        "latitude": 60.12816100000001,
+        "longitude": 18.643501
+      },
+      {
+        "name": "\u00d6vre Norrland",
+        "latitude": 60.12816100000001,
+        "longitude": 18.643501
+      }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "code": "CH",
+    "provinces": [
+      {
+        "name": "R\u00e9gion L\u00e9manique",
+        "latitude": 46.818188,
+        "longitude": 8.227511999999999
+      },
+      {
+        "name": "Espace Mittelland",
+        "latitude": 46.818188,
+        "longitude": 8.227511999999999
+      },
+      {
+        "name": "Nordwestschweiz",
+        "latitude": 47.3876664,
+        "longitude": 8.2554295
+      },
+      {
+        "name": "Z\u00fcrich",
+        "latitude": 47.3768866,
+        "longitude": 8.541694
+      },
+      {
+        "name": "Ostschweiz",
+        "latitude": 47.30397259999999,
+        "longitude": 9.2891612
+      },
+      {
+        "name": "Zentralschweiz",
+        "latitude": 46.9586921,
+        "longitude": 8.422521
+      },
+      {
+        "name": "Ticino",
+        "latitude": 46.0580636,
+        "longitude": 8.9901808
+      }
+    ]
+  },
+  {
+    "name": "T\u00fcrkiye",
+    "code": "TR",
+    "provinces": [
+      {
+        "name": "I\u0307Stanbul",
+        "latitude": 41.0082376,
+        "longitude": 28.9783589
+      },
+      {
+        "name": "Tekirda\u011f, Edirne, K\u0131rklareli",
+        "latitude": 41.735472,
+        "longitude": 27.224369
+      },
+      {
+        "name": "Bal\u0131kesir, \u00c7anakkale",
+        "latitude": 39.7847294,
+        "longitude": 27.4454265
+      },
+      {
+        "name": "I\u0307Zmir",
+        "latitude": 38.423734,
+        "longitude": 27.142826
+      },
+      {
+        "name": "Ayd\u0131n, Denizli, Mu\u011fla",
+        "latitude": 37.215374,
+        "longitude": 28.363394
+      },
+      {
+        "name": "Manisa, Afyonkarahisar, K\u00fctahya, U\u015fak",
+        "latitude": 38.6140337,
+        "longitude": 27.4295624
+      },
+      {
+        "name": "Bursa, Eski\u015fehir, Bilecik",
+        "latitude": 39.7667061,
+        "longitude": 30.52563109999999
+      },
+      {
+        "name": "Kocaeli, Sakarya, D\u00fczce, Bolu, Yalova",
+        "latitude": 40.7654408,
+        "longitude": 29.9408089
+      },
+      {
+        "name": "Ankara",
+        "latitude": 39.9333635,
+        "longitude": 32.8597419
+      },
+      {
+        "name": "Konya, Karaman",
+        "latitude": 37.3312948,
+        "longitude": 33.6030238
+      },
+      {
+        "name": "Antalya, Isparta, Burdur",
+        "latitude": 37.4612669,
+        "longitude": 30.0665236
+      },
+      {
+        "name": "Adana, Mersin",
+        "latitude": 36.9924805,
+        "longitude": 35.3205996
+      },
+      {
+        "name": "Hatay, Kahramanmara\u015f, Osmaniye",
+        "latitude": 37.5752755,
+        "longitude": 36.9228223
+      },
+      {
+        "name": "K\u0131r\u0131kkale, Aksaray, Ni\u011fde, Nev\u015fehir, K\u0131r\u015fehir",
+        "latitude": 39.146078,
+        "longitude": 34.1594989
+      },
+      {
+        "name": "Kayseri, Sivas, Yozgat",
+        "latitude": 39.750545,
+        "longitude": 37.0150217
+      },
+      {
+        "name": "Zonguldak, Karab\u00fck, Bart\u0131n",
+        "latitude": 41.843903,
+        "longitude": 32.720692
+      },
+      {
+        "name": "Kastamonu, \u00c7ank\u0131r\u0131, Sinop",
+        "latitude": 42.02797400000001,
+        "longitude": 35.151725
+      },
+      {
+        "name": "Samsun, Tokat, \u00c7orum, Amasya",
+        "latitude": 40.656455,
+        "longitude": 35.837347
+      },
+      {
+        "name": "Trabzon, Ordu, Giresun, Rize, Artvin, G\u00fcm\u00fc\u015fhane",
+        "latitude": 40.460825,
+        "longitude": 39.480321
+      },
+      {
+        "name": "Erzurum, Erzincan, Bayburt",
+        "latitude": 40.26032,
+        "longitude": 40.228048
+      },
+      {
+        "name": "A\u011fr\u0131, Kars, I\u011fd\u0131r, Ardahan",
+        "latitude": 39.92005959999999,
+        "longitude": 44.0436151
+      },
+      {
+        "name": "Malatya, Elaz\u0131\u011f, Bing\u00f6l, Tunceli",
+        "latitude": 38.674816,
+        "longitude": 39.22251500000001
+      },
+      {
+        "name": "Van, Mu\u015f, Bitlis, Hakkari",
+        "latitude": 37.577427,
+        "longitude": 43.736782
+      },
+      {
+        "name": "Gaziantep, Ad\u0131yaman, Kilis",
+        "latitude": 37.065953,
+        "longitude": 37.37811
+      },
+      {
+        "name": "\u015eanl\u0131urfa, Diyarbak\u0131r",
+        "latitude": 37.9246099,
+        "longitude": 40.1607219
+      },
+      {
+        "name": "Mardin, Batman, \u015e\u0131rnak, Siirt",
+        "latitude": 37.518974,
+        "longitude": 42.453714
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "provinces": [
+      {
+        "name": "Tees Valley And Durham (Nuts 2021)",
+        "latitude": 54.6836384,
+        "longitude": -1.8201775
+      },
+      {
+        "name": "Northumberland And Tyne And Wear (Nuts 2021)",
+        "latitude": 54.9287815,
+        "longitude": -1.5901755
+      },
+      {
+        "name": "Cumbria (Nuts 2021)",
+        "latitude": 54.5772323,
+        "longitude": -2.7974835
+      },
+      {
+        "name": "Greater Manchester (Nuts 2021)",
+        "latitude": 53.4575955,
+        "longitude": -2.1578377
+      },
+      {
+        "name": "Lancashire (Nuts 2021)",
+        "latitude": 53.9690089,
+        "longitude": -2.6276908
+      },
+      {
+        "name": "Cheshire (Nuts 2021)",
+        "latitude": 53.23263439999999,
+        "longitude": -2.6103157
+      },
+      {
+        "name": "Merseyside (Nuts 2021)",
+        "latitude": 53.46295809999999,
+        "longitude": -2.9240946
+      },
+      {
+        "name": "East Yorkshire And Northern Lincolnshire (Nuts 2021)",
+        "latitude": 53.2178821,
+        "longitude": -0.1999702
+      },
+      {
+        "name": "North Yorkshire (Nuts 2021)",
+        "latitude": 54.25035949999999,
+        "longitude": -1.4708553
+      },
+      {
+        "name": "South Yorkshire (Nuts 2021)",
+        "latitude": 53.46969679999999,
+        "longitude": -1.3259683
+      },
+      {
+        "name": "West Yorkshire (Nuts 2021)",
+        "latitude": 53.81081760000001,
+        "longitude": -1.76261
+      },
+      {
+        "name": "Derbyshire And Nottinghamshire (Nuts 2021)",
+        "latitude": 53.1285044,
+        "longitude": -0.9030999
+      },
+      {
+        "name": "Leicestershire, Rutland And Northamptonshire (Nuts 2021)",
+        "latitude": 52.6583014,
+        "longitude": -0.639643
+      },
+      {
+        "name": "Lincolnshire (Nuts 2021)",
+        "latitude": 53.2178821,
+        "longitude": -0.1999702
+      },
+      {
+        "name": "Herefordshire, Worcestershire And Warwickshire (Nuts 2021)",
+        "latitude": 52.05639799999999,
+        "longitude": -2.715974
+      },
+      {
+        "name": "Shropshire And Staffordshire (Nuts 2021)",
+        "latitude": 52.7063657,
+        "longitude": -2.7417849
+      },
+      {
+        "name": "West Midlands (Nuts 2021)",
+        "latitude": 52.4750743,
+        "longitude": -1.829833
+      },
+      {
+        "name": "East Anglia (Nuts 2021)",
+        "latitude": 52.3555177,
+        "longitude": -1.1743197
+      },
+      {
+        "name": "Bedfordshire And Hertfordshire (Nuts 2021)",
+        "latitude": 52.0627394,
+        "longitude": -0.5292091
+      },
+      {
+        "name": "Essex (Nuts 2021)",
+        "latitude": 51.76683689999999,
+        "longitude": 0.4757762
+      },
+      {
+        "name": "Inner London (Nuts 2010)",
+        "latitude": 51.45193949999999,
+        "longitude": -0.0702729
+      },
+      {
+        "name": "Outer London (Nuts 2010)",
+        "latitude": 51.5072178,
+        "longitude": -0.1275862
+      },
+      {
+        "name": "Inner London - West (Nuts 2021)",
+        "latitude": 51.45193949999999,
+        "longitude": -0.0702729
+      },
+      {
+        "name": "Inner London - East (Nuts 2021)",
+        "latitude": 51.45193949999999,
+        "longitude": -0.0702729
+      },
+      {
+        "name": "Outer London - East And North East (Nuts 2021)",
+        "latitude": 54.9456129,
+        "longitude": -1.9479664
+      },
+      {
+        "name": "Outer London - South (Nuts 2021)",
+        "latitude": 51.3888898,
+        "longitude": -0.1403317
+      },
+      {
+        "name": "Outer London - West And North West (Nuts 2021)",
+        "latitude": 55.378051,
+        "longitude": -3.435973
+      },
+      {
+        "name": "Berkshire, Buckinghamshire And Oxfordshire (Nuts 2021)",
+        "latitude": 51.8072204,
+        "longitude": -0.8127664
+      },
+      {
+        "name": "Surrey, East And West Sussex (Nuts 2021)",
+        "latitude": 50.969873,
+        "longitude": -0.4159547
+      },
+      {
+        "name": "Hampshire And Isle Of Wight (Nuts 2021)",
+        "latitude": 50.69384789999999,
+        "longitude": -1.304734
+      },
+      {
+        "name": "Kent (Nuts 2021)",
+        "latitude": 51.0928319,
+        "longitude": 0.8392470999999999
+      },
+      {
+        "name": "Gloucestershire, Wiltshire And Bristol/Bath Area (Nuts 2021)",
+        "latitude": 51.8642449,
+        "longitude": -2.238156
+      },
+      {
+        "name": "Dorset And Somerset (Nuts 2021)",
+        "latitude": 51.0634565,
+        "longitude": -2.7546704
+      },
+      {
+        "name": "Cornwall And Isles Of Scilly (Nuts 2021)",
+        "latitude": 50.5036299,
+        "longitude": -4.6524982
+      },
+      {
+        "name": "Devon (Nuts 2021)",
+        "latitude": 50.77721349999999,
+        "longitude": -3.999461
+      },
+      {
+        "name": "West Wales And The Valleys (Nuts 2021)",
+        "latitude": 51.79077059999999,
+        "longitude": -3.9887224
+      },
+      {
+        "name": "East Wales (Nuts 2021)",
+        "latitude": 51.6478897,
+        "longitude": -3.900053599999999
+      },
+      {
+        "name": "Eastern Scotland (Nuts 2013)",
+        "latitude": 56.49067119999999,
+        "longitude": -4.2026458
+      },
+      {
+        "name": "South Western Scotland (Nuts 2013)",
+        "latitude": 56.49067119999999,
+        "longitude": -4.2026458
+      },
+      {
+        "name": "North Eastern Scotland (Nuts 2021)",
+        "latitude": 56.49067119999999,
+        "longitude": -4.2026458
+      },
+      {
+        "name": "Highlands And Islands (Nuts 2021)",
+        "latitude": 55.378051,
+        "longitude": -3.435973
+      },
+      {
+        "name": "Eastern Scotland (Nuts 2021)",
+        "latitude": 56.49067119999999,
+        "longitude": -4.2026458
+      },
+      {
+        "name": "West Central Scotland (Nuts 2021)",
+        "latitude": 56.21056,
+        "longitude": -4.518247100000001
+      },
+      {
+        "name": "Southern Scotland (Nuts 2021)",
+        "latitude": 56.49067119999999,
+        "longitude": -4.2026458
+      },
+      {
+        "name": "Northern Ireland (Uk) (Nuts 2021)",
+        "latitude": 54.7877149,
+        "longitude": -6.4923145
+      }
+    ]
+  }
+]
