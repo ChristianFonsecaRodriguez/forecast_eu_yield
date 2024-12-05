@@ -5,3 +5,4 @@ notebooks/nada.ipynb
 notebooks/nasa_weather.ipynb
 notebooks/response_weather.json
 data/metheorology.csv
+notebooks/*.pkl

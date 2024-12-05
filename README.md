@@ -181,7 +181,7 @@ For this case, all data was grouped by country to construct the series by year. 
 
 #### Model Performace
 
-Since a model was developed for each country, the Yield data could vary based on this approach, as was also observed in the LightGBM models. Therefore, in addition to MAE, MAPE was used to evaluate the reduction of error by country. Each of this metric are in the table below.
+Since a model was developed for each country, the Yield data could vary based on this approach, as was also observed in the LightGBM models. Therefore, in addition to MAE, MAPE was used to evaluate the reduction of error by country. Each of this metric are in the tables below (for test).
 
 ##### Tables for All Crops Yield
 
