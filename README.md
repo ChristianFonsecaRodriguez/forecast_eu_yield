@@ -125,7 +125,7 @@ API_KEY_GEOCODING=YOUR_TOKEN
 
 ## Results
 
-The results are based on the developed models, where **LightGBM** was used for regression models and **Holt-Winters** for time series models. Also, the models were developed for **All Crops** and **All Crops** (where in the Analysis using Share Ratio, Top Crop was **Cereals for the production of grain including seed**).
+The results are based on the developed models, where **LightGBM** was used for regression models and **Holt-Winters** for time series models. Also, the models were developed for **All Crops** and **All Crops** (where in the Analysis using Sharpe Ratio, Top Crop was **Cereals for the production of grain including seed**).
 
 ### LighGBM Regressor
 
@@ -153,6 +153,8 @@ The regression models were developed by grouping countries because it was observ
 Below is a table showcasing the performance metrics (MAE in Tons and R²) for each model within the defined country groups (2022 Test):
 
 *Note: The MAE was calculated for each granular value of country/province. After observing a decreasing MAE, the final decision was to group by country only for the predicted Yield (result delivered to the forecast folder).*
+
+##### All Crops and Top Crop Results
 
 | Model                        |   MAE   | R²   |
 |------------------------------|---------|------|
@@ -183,7 +185,7 @@ For this case, all data was grouped by country to construct the series by year. 
 
 Since a model was developed for each country, the Yield data could vary based on this approach, as was also observed in the LightGBM models. Therefore, in addition to MAE, MAPE was used to evaluate the reduction of error by country. Each of this metric are in the tables below (for test).
 
-##### Tables for All Crops Yield
+##### All Crops Yield Results
 
 |  country	 |    MAE    | MAPE (%) |
 |------------|-----------|----------|
@@ -212,7 +214,7 @@ Where full metrics are:
 
 *Figure: Example of Forecasting 2022 for France - All Crops*
 
-##### Tables for Top Crop Yield
+##### Top Crop Yield Results
 
 |  country	|   MAE	  | MAPE (%) |
 |-----------|---------|----------|
