@@ -39,38 +39,9 @@ class PredictionInput(BaseModel):
     snodp: Dict[str, float]
     ps: Dict[str, float]
     pw: Dict[str, float]
-
+    cropType: str
+    
 @app.post("/predict")
-async def predict(input: PredictionInput):
-    # DataFrame with input data
-    df_t2m = pd.DataFrame.from_dict(input.t2m, orient='index').T
-    df_rh2m = pd.DataFrame.from_dict(input.rh2m, orient='index').T
-    df_ws10m = pd.DataFrame.from_dict(input.ws10m, orient='index').T
-    df_frost_days = pd.DataFrame.from_dict(input.frost_days, orient='index').T
-    df_snodp = pd.DataFrame.from_dict(input.snodp, orient='index').T
-    df_ps = pd.DataFrame.from_dict(input.ps, orient='index').T
-    df_pw = pd.DataFrame.from_dict(input.pw, orient='index').T
-    df = pd.concat([df_t2m, df_rh2m, df_ws10m, df_frost_days, df_snodp, df_ps, df_pw], axis=1)
-    
-    df.columns = [k.replace('days_','days_M') if 'frost_days' in k else k.replace('_', '_M') for k in df.columns]
-    
-    df['country'] = input.country.lower()
-    df['province'] = input.province.lower()
-    df['year'] = input.year
-    
-    # This is a mock prediction. In a real scenario, you would use a trained model here.
-    prediction = random.uniform(0, 100)
-    
-    if input.country.lower() == 'france':
-        prediction = logged_model_all_g1.predict(data=df)[0]
-    elif input.country.lower() in ['italy','türkiye','poland','spain']:
-        prediction = logged_model_all_g2.predict(data=df)[0]
-    else:
-        prediction = logged_model_all_g3.predict(data=df)[0]
-    
-    return {"prediction": round(prediction, 2)}
-
-@app.post("/predict_top")
 async def predict(input: PredictionInput):
     cropType = input.cropType
     
