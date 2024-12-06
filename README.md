@@ -125,13 +125,13 @@ API_KEY_GEOCODING=YOUR_TOKEN
 
 ## Results
 
-The results are based on the developed models, where **LightGBM** was used for regression models and **Holt-Winters** for time series models.
+The results are based on the developed models, where **LightGBM** was used for regression models and **Holt-Winters** for time series models. Also, the models were developed for **All Crops** and **All Crops** (where in the Analysis using Share Ratio, Top Crop was **Cereals for the production of grain including seed**).
 
 ### LighGBM Regressor
 
 #### Model Grouping by Country
 
-The regression models were developed by grouping countries because it was observed that, in the last three years, their yield levels varied significantly. Consequently, the countries were separated into three distinct groups. This grouping was applied to both **All Crops** and **Top Crop** models.
+The regression models were developed by grouping countries because it was observed that, in the last three years, their yield levels varied significantly. Consequently, the countries were separated into three distinct groups. This grouping was applied to both **All Crops** and **All Crops** models.
 
 | **Group** | **Countries**                    |
 |-----------|----------------------------------|
