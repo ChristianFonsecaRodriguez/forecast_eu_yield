@@ -67,13 +67,13 @@ Models are registered in a personal MLflow instance: [MLflow Access](http://ec2-
 * **code**: EU country code
 * **province**: EU provinces within each country
 * **year**: Crop years (2000-2022)
-* **t2m**: Temperature at 2 meters for each month (e.g., `t2m_M1` is for January)
-* **rh2m**: Relative Humidity at 2 meters for each month (e.g., `rh2m_M1` is for January)
-* **ws10m**: Wind Speed at 10 meters for each month (e.g., `ws10m_M1` is for January)
-* **ps**: Surface Pressure for each month (e.g., `ps_M1` is for January)
-* **frost_days**: Frost days for each month (e.g., `frost_days_M1` is for January)
-* **snodp**: Snow depth for each month (e.g., `snodp_M1` is for January)
-* **pw**: Precipitable water for each month (e.g., `pw_M1` is for January)
+* **t2m**: Temperature at 2 meters for each month (e.g., `t2m_M1` avg for January)
+* **rh2m**: Relative Humidity at 2 meters for each month (e.g., `rh2m_M1` avg for January)
+* **ws10m**: Wind Speed at 10 meters for each month (e.g., `ws10m_M1` avg for January)
+* **ps**: Surface Pressure for each month (e.g., `ps_M1` avg for January)
+* **frost_days**: Frost days for each month (e.g., `frost_days_M1` sum for January)
+* **snodp**: Snow depth for each month (e.g., `snodp_M1` avg for January)
+* **pw**: Precipitable water for each month (e.g., `pw_M1` avg for January)
 
 ---
 
