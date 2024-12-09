@@ -81,6 +81,8 @@ Models are registered in a personal MLflow instance: [MLflow Access](http://ec2-
 
 Follow these steps to install the project locally.
 
+- Install Python 3.10.11
+
 ```bash
 # Clone the repository
 git clone https://github.com/ChristianFonsecaRodriguez/forecast_eu_yield.git
